@@ -7,7 +7,7 @@
   "scripts": {
      "start": "node server.js",
     "vercel-build": "npm install ",
-    "setup-project": "npm i && cd client && npm i",
+    "setup-project": "npm i && cd client && npm i"
   },
   "keywords": [],
   "author": "",
